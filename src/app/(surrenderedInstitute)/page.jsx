@@ -1,7 +1,7 @@
 const InstituteHomepage = () => {
   return (
     <div>
-      <h1>Institute Homepage</h1>
+      Institute Homepage
     </div>
   );
 };
