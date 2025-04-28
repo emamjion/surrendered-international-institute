@@ -21,7 +21,7 @@ const config = {
       roboto: "var(--font-roboto)",
     },
     backgroundImage: {
-      hero: "linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('/assets/bg.png')",
+      hero: "linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.86)), url('/assets/bg.png')"
     },
     extend: {
       colors: {
